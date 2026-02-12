@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm karim kusin</h1>
-<h3 align="center">A passionate frontend developer froBlockchain Developer / Web3 Builderm India</h3>
+<h1 align="center">Hi 👋, I'm Karim</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web3+Builder;Smart+Contract+Dev;Airdrop+Hunter;Always+Learning+🚀" />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimkusin88&label=Profile%20views&color=0e75b6&style=flat" alt="karimkusin88" /> </p>
 
@@ -23,3 +27,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimkusin88&show_icons=true&locale=en" alt="karimkusin88" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimkusin88&" alt="karimkusin88" /></p>
+### 🚀 Current Focus
+- Deploying smart contracts on testnets
+- Building bots & automation
+- Hunting airdrops
+- Learning Web3 infra
