@@ -1,62 +1,54 @@
-<!-- ================= HEADER ================= -->
+<!-- ===== HEADER ===== -->
+
+<h1 align="center">Karim Kusin</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=180&section=header&text=Karim%20Kusin&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+Web3 Builder • Smart Contracts • Automation
 </p>
 
-<h2 align="center">Web3 Builder • Smart Contracts • Automation</h2>
-
 <p align="center">
-  Building on EVM chains | Writing bots & onchain tools | Learning in public 🚀
+Building on EVM chains | Writing onchain tools | Learning in public
 </p>
 
 ---
 
-## 🧠 About Me
+## About
 
-- 🔗 Focused on Web3 & EVM ecosystems  
-- ⚙️ Solidity, Hardhat, Node.js & automation workflows  
-- 🤖 Developing bots & onchain utilities  
-- 📫 karimkusin@gmail.com  
+Focused on building and experimenting within Web3 ecosystems.
+
+- Solidity & Hardhat development  
+- Automation with Node.js & Python  
+- Smart contract testing & deployment  
+- Exploring Web3 infrastructure  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=solidity,hardhat,nodejs,docker,git,linux,python" />
+<img src="https://skillicons.dev/icons?i=solidity,hardhat,nodejs,python,docker,git,linux" />
 </p>
 
 ---
 
-## 🚀 Featured Work
+## Selected Work
 
 - Smart contract experiments & gas optimization  
-- Security lab practice (Solidity)  
+- Solidity security practice  
 - Automation scripts for Web3 workflows  
 
 ---
 
-## 📊 GitHub Activity
+## Current Focus
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=karimkusin88&show_icons=true&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="left">
-<a href="https://twitter.com/karimkusin">
-  <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-</p>
+- Deploying contracts on testnets  
+- Improving contract security knowledge  
+- Building reliable automation tools  
 
 ---
 
-## 🎯 Current Focus
+## Contact
 
-- Deploying smart contracts on testnets  
-- Building automation tools  
-- Exploring Web3 infrastructure
+Twitter: https://twitter.com/karimkusin  
+Discord: https://discord.com/channels/karimkusin    
+Email: karimkusin@gmail.com
