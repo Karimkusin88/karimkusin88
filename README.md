@@ -1,54 +1,41 @@
-<!-- ===== HEADER ===== -->
+# Karim Kusin — Web3 Builder 🔴
 
-<h1 align="center">Karim Kusin</h1>
-
-<p align="center">
-Web3 Builder • Smart Contracts • Automation
-</p>
-
-<p align="center">
-Building on EVM chains | Writing onchain tools | Learning in public
-</p>
+> Building DeFi protocols & tools on **Robinhood Chain Testnet**
 
 ---
 
-## About
+## 🚀 Live Projects
 
-Focused on building and experimenting within Web3 ecosystems.
-
-- Solidity & Hardhat development  
-- Automation with Node.js & Python  
-- Smart contract testing & deployment  
-- Exploring Web3 infrastructure  
-
----
-
-## Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=solidity,hardhat,nodejs,python,docker,git,linux" />
-</p>
+| Project | Description | Live |
+|---|---|---|
+| 🏦 Staking Dashboard | NFT-Boosted ERC20 Staking | [robinhood-staking-dashboard.vercel.app](https://robinhood-staking-dashboard.vercel.app) |
+| 🔄 RobinhoodDEX | AMM DEX for Stock Tokens (AAPL, TSLA, GOOG) | [robinhood-dex.vercel.app](https://robinhood-dex.vercel.app) |
+| 🏆 Builder Leaderboard | On-chain rankings for Robinhood Chain builders | [robinhood-leaderboard.vercel.app](https://robinhood-leaderboard.vercel.app) |
+| 🌿 X1 GreenPulse | DePIN Energy Monitor on X1 EcoChain | [x1-greenpulse.vercel.app](https://x1-greenpulse.vercel.app) |
 
 ---
 
-## Selected Work
+## ⚒️ Tech Stack
 
-- Smart contract experiments & gas optimization  
-- Solidity security practice  
-- Automation scripts for Web3 workflows  
 
----
 
-## Current Focus
+![Solidity](https://skillicons.dev/icons?i=solidity,hardhat,nodejs,python,docker,git,linux)
 
-- Deploying contracts on testnets  
-- Improving contract security knowledge  
-- Building reliable automation tools  
+
 
 ---
 
-## Contact
+## 📊 Current Focus
 
-Twitter: https://twitter.com/karimkusin  
-Discord: https://discord.com/channels/karimkusin    
-Email: karimkusin@gmail.com
+- 🔴 Building full DeFi ecosystem on **Robinhood Chain**
+- 🤖 Multi-wallet automation & on-chain activity
+- 📝 Smart contract security & gas optimization
+- 🌐 Web3 infrastructure & tooling
+
+---
+
+## 📫 Contact
+
+- Twitter: [@karimkusin](https://twitter.com/karimkusin)
+- Discord: karimkusin
+- Email: karimkusin@gmail.com
